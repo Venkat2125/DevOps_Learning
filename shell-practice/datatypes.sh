@@ -11,3 +11,4 @@ sum=$(($a+$b+$c))
 echo "sum is:${sum}"
 Leaders=("Modi" "jagan" "shivanna")
 echo "all leaders ${Leaders[@]}"
+echo "all leasr ${Leaders[0]}"
