@@ -1,5 +1,7 @@
 #!/bin/bash
-echo "venkat : HEllo shivanna, welcome to AP"
-echo "shivanna : Thank you,Nice to met venkat"
-echo "venkat : Nice tomeet shivanna"
-echo "shivanna : venkat where to you go"
+person1="venkat"
+person2="shivanna"
+echo "$person1 : HEllo $person2, welcome to AP"
+echo "$person2 : Thank you,Nice to met $person1"
+echo "$person1 : Nice tomeet $person2"
+echo "$person2 : $person1 where to you go"
